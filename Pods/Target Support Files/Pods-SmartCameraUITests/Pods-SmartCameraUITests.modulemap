@@ -1,0 +1,6 @@
+framework module Pods_SmartCameraUITests {
+  umbrella header "Pods-SmartCameraUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
